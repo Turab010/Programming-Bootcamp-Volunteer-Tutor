@@ -4,7 +4,7 @@
 
     Lets Consider the list [8, 3, 5, 1], the output integer should be 8351.
     We can write the number 8351 as:
-    8351: 8000 + 351 + 51 + 1 
+    8351: 8000 + 300 + 50 + 1 
 
     implementation:
         In our code, we can take the output integer to be 0 and explore the list from left to right.
